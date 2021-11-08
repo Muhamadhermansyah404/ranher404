@@ -1,0 +1,9 @@
+# used in `smack-my-bitch-up` and `hangover` scripts MASUK_FACEBOOK_LAR=yyuuyyyyyyyyyuyuuuuuuuuuyyyyyy MASUK_AUTH_TOKEN=yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 
+# used in `MASUK_COOCKIES=yyyyyyyyyyyyyyyyyyyyyyyyy script 
+
+SELAMAT DATANG DI LASKAR ASSASIN REPORTHING
+
+# Runs `Ranher404.sh` monday to friday at 9:20 pm. 20 21 * * 1-5 /path/to/scripts/Ranher404.sh >> /path/to/Ranher404.log 2>&1 
+# Runs `hangover.sh` monday to friday at 8:45 am. 45 8 * * 1-5 /path/to/scripts/hangover.sh >> /path/to/hangover.log 2>&1 
+# Runs `Ranher404.sh` every 10 minutes. */10 * * * * /path/to/scripts/Ranher404.sh 
+# Runs `Ranher404.sh` hourly from 9am to 6pm on weekdays. 0 9-18 * * 1-5 /path/to/scripts/Ranher.sh
